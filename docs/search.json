@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "code.html",
+    "href": "code.html",
+    "title": "test website",
+    "section": "",
+    "text": "import numpy as np\nimport matplotlib.pyplot as plt\n\n\nplt.figure()\n\n&lt;Figure size 640x480 with 0 Axes&gt;\n\n\n&lt;Figure size 640x480 with 0 Axes&gt;\n\n\n\nprint(np.arange(0,10,1))\n\n[0 1 2 3 4 5 6 7 8 9]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
